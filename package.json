@@ -1,0 +1,13 @@
+{
+  "name": "chat_app_nodejs_epress",
+  "version": "1.0.0",
+  "description": "Real time chat with node js",
+  "dependencies": {
+    "express": "latest",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-rc.1",
+    "socket.io": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
